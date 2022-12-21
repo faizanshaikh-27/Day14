@@ -1,0 +1,2 @@
+Hello from file system module to fsread.txt 
+Hello from append file, will add statement without deleting the previous statement
